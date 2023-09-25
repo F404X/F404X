@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dJpvD2Ata7sEqRlAKH/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hFwSKDpONhT8I/giphy.gif" width="300" height="300" style="object-fit: cover;"/>
+  <p>Programming and drinking Coffee ☕</p>
+</div>
+
+<div id="header" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
   <div id="badges">
     <a href="your-linkedin-URL">
