@@ -31,5 +31,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
-  ![Snake animation](https://github.com/F404X/F404X/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/F404X/F404X/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
