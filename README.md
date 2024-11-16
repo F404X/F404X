@@ -18,17 +18,32 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=F404X&style=flat-square&color=blue" alt=""/>
 
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
+  <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
+      <th>D</th>
+    </tr>
+    <tr>
+      <td align="center" valign="center"><a href="#" style="height:100"><img src="https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" height="auto"></a></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3"></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white" title="Javascript" alt="Javascript"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"></td>
+      <td align="center" valign="center"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"></td>
+      <td align="center" valign="center"><img src="https://img.shields.io/badge/cloudflare-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white" title="Cloudflare" alt="Cloudflare"></td>
+    </tr>
+  </table>
   
   ![Snake animation](https://github.com/F404X/F404X/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
