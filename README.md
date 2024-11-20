@@ -1,5 +1,11 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/9huXZE8jnm0AAAAd/lofi.gif" width="598" height="300" style="object-fit: cover;"/>
+  <p>Programming and drinking Coffee ☕</p>
+</div>
+
+<div id="header" align="center">
+  <br>
+  <p>...</p>
 </div>
 
 <div id="header" align="center">
@@ -73,7 +79,6 @@
       <!--Net and Sec 5-----> <td align="center" valign="center"><a href="#!"></a></td>
     </tr>
   </table>
-  <p>Programming and drinking Coffee ☕</p>
 
   <a href="#!"><img src="https://github.com/F404X/F404X/blob/output/github-contribution-grid-snake-dark.svg" title="You found me... tsssss~" alt="Snake"></a>
 </div>
